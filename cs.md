@@ -5,5 +5,5 @@ Format: English - Hungarian - (Descritpion optional)
 * Continous Delivery - Folyamatos kihelyezés
 * Abstract factory - Elvont gyár
 * Threadpool - Szálmedence
-* Service - Szervíz
+* Service - Szervíz - (Inkább szolgáltatásnak szoktuk forítani, de vannak fejlesztői rétegek akik szervíznek hívják. Felfoghatjuk egyfajta tájszólásnak is.)
 * Webservice - Webszervíz
