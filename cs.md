@@ -5,3 +5,5 @@ Format: English - Hungarian - (Descritpion optional)
 * Continous Delivery - Folyamatos kihelyezés
 * Abstract factory - Elvont gyár
 * Threadpool - Szálmedence
+* Service - Szervíz
+* Webservice - Webszervíz
