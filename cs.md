@@ -4,3 +4,4 @@ Format: English - Hungarian - (Descritpion optional)
 * Assembly - Szerelvény
 * Continous Delivery - Folyamatos kihelyezés
 * Abstract factory - Elvont gyár
+* Threadpool - Szálmedence
