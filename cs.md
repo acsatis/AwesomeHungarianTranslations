@@ -7,3 +7,4 @@ Format: English - Hungarian - (Descritpion optional)
 * Threadpool - Szálmedence
 * Service - Szervíz - (Inkább szolgáltatásnak szoktuk forítani, de vannak fejlesztői rétegek akik szervíznek hívják. Felfoghatjuk egyfajta tájszólásnak is.)
 * Webservice - Webszervíz
+* Visual Studio - Látható műhely xD
