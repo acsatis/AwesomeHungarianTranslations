@@ -8,3 +8,4 @@ Format: English - Hungarian - (Descritpion optional)
 * Service - Szervíz - (Inkább szolgáltatásnak szoktuk forítani, de vannak fejlesztői rétegek akik szervíznek hívják. Felfoghatjuk egyfajta tájszólásnak is.)
 * Webservice - Webszervíz
 * Visual Studio - Látható műhely xD
+* Active Directory - Aktív könyvtár (aztán értsd meg :D )
